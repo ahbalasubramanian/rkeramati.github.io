@@ -8,6 +8,9 @@ I am a Ph.D. student in the [Stanford AI for Human Impact](https://twitter.com/a
 
 ### Timeline
 > **2015** Joined Stanford for PhD in Computational and Mathematical Engieering ([ICME](http://icme.stanford.edu)
+
 > **2015** Bachelor of Science, Mechanical Engineering, Minor: Economics
+
 > **2011** Started college in Sharif University of Technology, Tehran, Iran --- Mechanical Engineering 
+
 > **1993** Born in [Sari](https://en.wikipedia.org/wiki/Sari,_Iran), Mazandaran, Iran.
