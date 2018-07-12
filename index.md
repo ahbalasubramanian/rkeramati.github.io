@@ -7,7 +7,7 @@ I am a Ph.D. student in the [Stanford AI for Human Impact](https://twitter.com/a
 - [Twitter](https://twitter.com/RamtinKeramati?lang=en)
 
 ### Timeline
-> **2015** Joined Stanford for PhD in Computational and Mathematical Engieering ([ICME](http://icme.stanford.edu)
+> **2015** Joined Stanford for PhD in Computational and Mathematical Engieering ([ICME](http://icme.stanford.edu))
 
 > **2015** Bachelor of Science, Mechanical Engineering, Minor: Economics
 
