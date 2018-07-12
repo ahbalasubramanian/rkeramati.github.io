@@ -8,6 +8,7 @@ I am a Ph.D. student in the [Stanford AI for Human Impact](https://twitter.com/a
 
 ### Timeline
 > **2015** Joined Stanford for PhD in Computational and Mathematical Engieering ([ICME](http://icme.stanford.edu))
+>> Test
 
 > **2015** Bachelor of Science, Mechanical Engineering, Minor: Economics
 
