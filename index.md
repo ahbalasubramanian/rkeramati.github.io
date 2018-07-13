@@ -6,6 +6,8 @@ I am a Ph.D. student in the [Stanford AI for Human Impact](https://twitter.com/a
 - [Linkedin](https://www.linkedin.com/in/rkeramati/)
 - [Twitter](https://twitter.com/RamtinKeramati?lang=en)
 
+I enjoy reading [NYT](https://nytimes.com), backpacking, listening to Pink Floyd and Arctic Monkeys!
+
 ### Timeline
 > **2015 - Prsent** Stanford Time
 >> *2017* Joined [Stanford AI for Human Impact](https://twitter.com/aiforhi) lab
