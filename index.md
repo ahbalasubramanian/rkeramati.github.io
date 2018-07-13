@@ -10,7 +10,7 @@ I am a Ph.D. student in the [Stanford AI for Human Impact](https://twitter.com/a
 > **2015 - Prsent** Stanford Time
 >> *2017* Joined [Stanford AI for Human Impact](https://twitter.com/aiforhi) lab
 
->> *2017* Jojed [Uber](https://www.uber.com)as a data science intern for summer
+>> *2017* Jojed [Uber](https://www.uber.com) as a data science intern for summer
 
 >> *2016* Joined [Stitich Fix](https://www.stitchfix.com/) as a data science intern for summer
 
