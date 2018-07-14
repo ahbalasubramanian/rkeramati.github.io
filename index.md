@@ -6,7 +6,9 @@ I am a Ph.D. student in the [Stanford AI for Human Impact](https://twitter.com/a
 - [Linkedin](https://www.linkedin.com/in/rkeramati/)
 - [Twitter](https://twitter.com/RamtinKeramati?lang=en)
 
-I enjoy reading [NYT](https://nytimes.com), backpacking, listening to Pink Floyd and Arctic Monkeys!
+I enjoy reading [NYT](https://nytimes.com), [backpacking](https://www.nps.gov/yose/planyourvisit/backpacking.htm), listening to [Pink Floyd](https://www.youtube.com/watch?v=7jMlFXouPk8) and [Arctic Monkeys](https://www.youtube.com/watch?v=71Es-8FfATo)!
+
+-[CV](https://cap.stanford.edu/profiles/viewResume?facultyId=69437&name=Ramtin_Keramati)
 
 ---
 
