@@ -13,6 +13,8 @@ I enjoy reading [NYT](https://nytimes.com), [backpacking](https://www.nps.gov/yo
 ---
 
 ### Timeline
+*C'est La Vie!!*
+
 > **2015 - Prsent** Stanford Time
 >> *2017* Joined [Stanford AI for Human Impact](https://twitter.com/aiforhi) lab
 
