@@ -5,10 +5,11 @@ I am a Ph.D. student in the [Stanford AI for Human Impact](https://twitter.com/a
 - Office: Gates 214
 - [Linkedin](https://www.linkedin.com/in/rkeramati/)
 - [Twitter](https://twitter.com/RamtinKeramati?lang=en)
+- [CV](https://cap.stanford.edu/profiles/viewResume?facultyId=69437&name=Ramtin_Keramati)
 
 I enjoy reading [NYT](https://nytimes.com), [backpacking](https://www.nps.gov/yose/planyourvisit/backpacking.htm), listening to [Pink Floyd](https://www.youtube.com/watch?v=7jMlFXouPk8) and [Arctic Monkeys](https://www.youtube.com/watch?v=71Es-8FfATo)!
 
--[CV](https://cap.stanford.edu/profiles/viewResume?facultyId=69437&name=Ramtin_Keramati)
+
 
 ---
 
