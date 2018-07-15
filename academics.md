@@ -12,7 +12,7 @@ Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, P
 
 ## Teaching
 
-**Award: ** [Centennial TA 2018](https://teachingcommons.stanford.edu/grants-awards/teaching-awards/centennial-teaching-assistant-awards)
+**Award:** [Centennial TA 2018](https://teachingcommons.stanford.edu/grants-awards/teaching-awards/centennial-teaching-assistant-awards)
 - (Head TA) Teaching assistant of Deep Learning (CS230), Prof. Andrew Ng, Kian Katanforoosh
 - Teaching assistant of Deep Learning (CS230), Prof. Andrew Ng, Kian Katanforoosh
 - Teaching assistant of Linear Algebra with Application (CME200), Prof. Iaccarino, G.
