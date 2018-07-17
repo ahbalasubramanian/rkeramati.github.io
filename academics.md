@@ -29,4 +29,4 @@ Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, P
 - Teaching assistant of Numerical Methods for Engineering (CME206), Prof. Marsden, A.
 
 ## Other
-- Blog Post: Towards Reinforcement Learning Inspired By Humans Without Human Demonstrations [Here](https://medium.com/stanford-aiforhi/towards-reinforcement-learning-inspired-by-humans-without-human-demonstrations-a7c111a4d0de)
+- Blog Post: [Towards Reinforcement Learning Inspired By Humans Without Human Demonstrations](https://medium.com/stanford-aiforhi/towards-reinforcement-learning-inspired-by-humans-without-human-demonstrations-a7c111a4d0de)
