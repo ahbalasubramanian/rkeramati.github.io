@@ -4,14 +4,17 @@
 ## Publications
 #### Strategic Object Oriented Reinforcement Learning (SOORL) [[pdf](https://arxiv.org/abs/1806.00175)]
 *Sumitted to NIPS 2018*
+
 *Ramtin Keramati*, Jay Whang, Patrick Cho, Emma Brunskill
 
 #### Strategic Exploration in Object-Oriented Reinforcement Learning [[pdf](/assets/pdf/SOORL_ERL.pdf)]
 *ICML 2018: Exploration in Reinforcement Learning workshop*
+
 *Ramtin Keramati*, Jay Whang, Patrick Cho, Emma Brunskill
 
 #### Hierarchy-Driven Exploration in Reinforcement Learning [[pdf](/assets/pdf/HRL_ERL.pdf)]
 *ICML 2018: Exploration in Reiforcement Learning workshop*
+
 Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, Percy Liang and Emma Brunskill
 
 #### Value Driven Representations for Reinforcement Learning
@@ -24,3 +27,6 @@ Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, P
 - Teaching assistant of Deep Learning (CS230), Prof. Andrew Ng, Kian Katanforoosh
 - Teaching assistant of Linear Algebra with Application (CME200), Prof. Iaccarino, G.
 - Teaching assistant of Numerical Methods for Engineering (CME206), Prof. Marsden, A.
+
+## Other
+- Blog Post: Towards Reinforcement Learning Inspired By Humans Without Human Demonstrations [Here](https://medium.com/stanford-aiforhi/towards-reinforcement-learning-inspired-by-humans-without-human-demonstrations-a7c111a4d0de)
