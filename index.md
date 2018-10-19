@@ -17,14 +17,12 @@ listening to [Pink Floyd](https://www.youtube.com/watch?v=7jMlFXouPk8) and [Arct
 And I think Yosemite is the best place on the earth.
 
 
-
-Academic 
+ 
 ---
 
 ### Timeline
-*C'est La Vie!!*
 
-> **2015 - Prsent** Stanford Time
+> **2015 - Prsent** Stanford
 >> *2017* Joined [Stanford AI for Human Impact](https://twitter.com/aiforhi) lab
 
 >> *2017* Joined [Uber](https://www.uber.com) as a data science intern for summer
@@ -33,12 +31,12 @@ Academic
 
 >> *2015* Joined Stanford for PhD in Computational and Mathematical Engieering ([ICME](http://icme.stanford.edu))
 
-> **2011 - 2015** College Time!
+> **2011 - 2015** Sharif University of Technology
 >> *2015* Bachelor of Science, Mechanical Engineering, Minor: Economics
 
->> *2013* Started a Minor in Economics, a.k.a Great Decision! 
+>> *2013* Started a Minor in Economics 
 
->> *2011* Started college in [Sharif University of Technology](https://en.wikipedia.org/wiki/Sharif_University_of_Technology), Tehran, Iran, in Mechanical Engineering, a.k.a Bad Decision!
+>> *2011* Started college in [Sharif University of Technology](https://en.wikipedia.org/wiki/Sharif_University_of_Technology), Tehran, Iran, in Mechanical Engineering
 
 > **2010 - 2011** Astronomy and Astrophysics Olympiad
 >> *2011* Bronze medal of 5th International Olympiad in Astronomy and Astrophysics, [IOAA](https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics)
