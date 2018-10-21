@@ -9,7 +9,7 @@ and fairness in Reinforcement Learning.
 - [Linkedin](https://www.linkedin.com/in/rkeramati/)
 - [Twitter](https://twitter.com/RamtinKeramati?lang=en)
 - [Resume](/assets/pdf/resume.pdf)
-- [Academic Page](/academics.md)
+- [Academics](/academics.md)
 
 I enjoy reading [NYT](https://nytimes.com),
 [backpacking](https://www.nps.gov/yose/planyourvisit/backpacking.htm),
