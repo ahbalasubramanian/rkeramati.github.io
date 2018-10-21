@@ -9,6 +9,10 @@ decision making.
 ## Research
 
 #### Strategic Object Oriented Reinforcement Learning [[arXiv](https://arxiv.org/abs/1806.00175)]
+*arXiv preprint arXiv:1806.00175*
+
+*Ramtin Keramati*, Jay Whang, Patrick Cho, Emma Brunskill
+
 
 #### Strategic Exploration in Object-Oriented Reinforcement Learning [[pdf](/assets/pdf/SOORL_ERL.pdf)]
 *ICML 2018: Exploration in Reinforcement Learning workshop*
@@ -24,9 +28,13 @@ Evan Liu, *Ramtin Keramati*, Kelvin Guu, Sudarshan Seshadri, Panupong Pasupat, P
 *Ramtin Keramati*, Emma Brunskill
 
 #### Dynamics of the nanoneedle probe in trolling mode AFM [[link](http://iopscience.iop.org/article/10.1088/0957-4484/26/20/205702/meta)]
+Journal of Nanotechnology
+
 Ahmad Abdi, Hossein Nejat Pishkenari, *Ramtin Keramati*, Majid Minary-Jolandan
 
 #### Molecular dynamics modeling of a nanomaterials-water surface interaction [[link](https://aip.scitation.org/doi/abs/10.1063/1.4947189)]
+Journal of Applied Physics
+
 Hossein Nejat Pishkenari, *Ramtin Keramati*, Ahmad Abdi, Majid Minary-Jolandan
 
 ## Teaching
