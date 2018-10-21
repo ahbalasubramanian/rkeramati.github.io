@@ -22,12 +22,12 @@ And I think Yosemite is the best place on the earth.
 
 ### Timeline
 
-> **2015 - Prsent** Stanford
+> **2015 - Present** Stanford
 >> *2017* Joined [Stanford AI for Human Impact](https://twitter.com/aiforhi) lab
 
 >> *2017* Joined [Uber](https://www.uber.com) as a data science intern for summer
 
->> *2016* Joined [Stitich Fix](https://www.stitchfix.com/) as a data science intern for summer
+>> *2016* Joined [Stitch Fix](https://www.stitchfix.com/) as a data science intern for summer
 
 >> *2015* Joined Stanford for PhD in Computational and Mathematical Engieering ([ICME](http://icme.stanford.edu))
 
